@@ -1,2 +1,2 @@
 # programming
-My first programming GitHub repository
+My first programming Github repository
